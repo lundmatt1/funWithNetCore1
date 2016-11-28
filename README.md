@@ -7,3 +7,6 @@ Toolchain
 Install the .NET Core tools preview for Visual Studio
 
 Followed https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
+
+Next attempting to follow this:
+https://docs.microsoft.com/en-us/aspnet/core/publishing/linuxproduction
